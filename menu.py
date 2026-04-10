@@ -1,0 +1,10 @@
+def show_menu():
+    print("\n===== Hostel Management System =====")
+    print("1. Add Student")
+    print("2. View Students")
+    print("3. Delete Student")
+    print("4. Add Room")
+    print("5. View Rooms")
+    print("6. Assign Room")
+    print("7. View Allocations")
+    print("0. Exit")
